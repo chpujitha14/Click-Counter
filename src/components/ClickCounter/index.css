@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.count-color {
+  color: #c20a72;
+}
+.button {
+  cursor: pointer;
+  outline: none;
+}
